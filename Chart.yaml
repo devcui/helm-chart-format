@@ -1,0 +1,13 @@
+apiVersion: v2
+name: star-universe
+description: 这是新版的什么什么的基座项目portal
+version: v1
+appVersion: 1.0.0
+dependencies:
+  - name: common
+    repository: http://xxx.xxx.xxx.xxx:xxxx/chartrepo/cloud
+    version: 1.0.0
+icon: https://bitnami.com/assets/stacks/nginx/img/nginx-stack-220x234.png
+maintainers:
+  - email: devcui@outlook.com
+    name: 徐成
